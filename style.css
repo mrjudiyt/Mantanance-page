@@ -18,3 +18,13 @@
     font-size: 1em;
     margin-bottom: 1em;
 }
+
+
+@media (max-width: 600px) {
+    .maintenance-mode h1 {
+        font-size: 1.5em;
+    }
+    .maintenance-mode p {
+        font-size: 0.875em;
+    }
+}
